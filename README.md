@@ -3,7 +3,7 @@
 A modern, dark-themed SaaS landing page built to replicate the Cursor IDE website. This project features a clean, production-quality design built with pure HTML and CSS (no frameworks or JavaScript).
 
 ## Hosted on GitHub Pages: 
-[https://mursaleennisar.github.io/cursor-clone/](https://mursaleennisar.github.io/cursor-clone/)
+[https://mursaleen-nisar.github.io/cursor-clone/](https://mursaleen-nisar.github.io/cursor-clone/)
 
 ## 🎨 Design Overview
 
